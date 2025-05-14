@@ -13,7 +13,7 @@
 🔭 I’m currently working on my knowledge systematization, so here you may find:
 - My pet-projects. The latest:
   - [Telegram Bot for remote monitoring of learning](https://github.com/doprealing/telegram_ml_callback_bot)
-- My code studies in [ML](https://github.com/doprealing/ml_studies), [DL](https://github.com/doprealing/dl_studies), [CV](https://github.com/doprealing/cv_studies), [NLP](https://github.com/doprealing/nlp_studies), [Unity](https://github.com/doprealing/unity_studies)
+- My code studies in [ML](https://github.com/doprealing/ml_studies), [DL](https://github.com/doprealing/dl_studies), [CV](https://github.com/doprealing/cv_studies), [NLP](https://github.com/doprealing/nlp_studies), [Unity](https://github.com/doprealing/unity_studies), [programming languages](https://github.com/doprealing/languages_studies)
 
 <br>
 
